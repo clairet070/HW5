@@ -1,3 +1,4 @@
+![HW5](https://user-images.githubusercontent.com/57874785/116768912-9ff41a80-aa07-11eb-9a09-2e5372fc8020.gif)
 # HW5
 # Drawer
 
@@ -6,7 +7,6 @@ This is an app that allows people to draw on their phone in three different colo
 ---
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 Rubric:
@@ -23,12 +23,10 @@ Bonus points:
 -[ ] Animated icons 5%
 -[x] Save to gallery 5%
 -[x] Undo both line-drawing and icon-adding 5%
-Pencil sound 5%
+-[ ] Pencil sound 5%
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![HW5](https://user-images.githubusercontent.com/57874785/116769104-c31eca00-aa07-11eb-9dd5-f0ad23ef8211.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
