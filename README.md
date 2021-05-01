@@ -1,4 +1,3 @@
-![HW5](https://user-images.githubusercontent.com/57874785/116768912-9ff41a80-aa07-11eb-9a09-2e5372fc8020.gif)
 # HW5
 # Drawer
 
